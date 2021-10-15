@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopkart/static/css/main.c1e1504a.chunk.css",
+    "main.js": "/shopkart/static/js/main.c1d7d880.chunk.js",
+    "main.js.map": "/shopkart/static/js/main.c1d7d880.chunk.js.map",
+    "runtime-main.js": "/shopkart/static/js/runtime-main.551a04e4.js",
+    "runtime-main.js.map": "/shopkart/static/js/runtime-main.551a04e4.js.map",
+    "static/js/2.97c22dd1.chunk.js": "/shopkart/static/js/2.97c22dd1.chunk.js",
+    "static/js/2.97c22dd1.chunk.js.map": "/shopkart/static/js/2.97c22dd1.chunk.js.map",
+    "static/js/3.e4f08578.chunk.js": "/shopkart/static/js/3.e4f08578.chunk.js",
+    "static/js/3.e4f08578.chunk.js.map": "/shopkart/static/js/3.e4f08578.chunk.js.map",
+    "index.html": "/shopkart/index.html",
+    "static/css/main.c1e1504a.chunk.css.map": "/shopkart/static/css/main.c1e1504a.chunk.css.map",
+    "static/js/2.97c22dd1.chunk.js.LICENSE.txt": "/shopkart/static/js/2.97c22dd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551a04e4.js",
+    "static/js/2.97c22dd1.chunk.js",
+    "static/css/main.c1e1504a.chunk.css",
+    "static/js/main.c1d7d880.chunk.js"
+  ]
+}
